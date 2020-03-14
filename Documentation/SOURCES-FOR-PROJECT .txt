@@ -1,0 +1,36 @@
+Digital Ocean.
+
+Heroku.
+
+Task.
+
+- cambiar las imagenes del template actual de bbuy.
+- Buscar un buen servidor cloud vps-API remote desktop.
+- Crear Base de Datos en Atlas MongoDB y administrar resto de projectos.
+
+
+
+Allproducts Page:
+http://demo2.drfuri.com/martfury/my-account/
+
+HOME BLACK OFFICIAL LANDING WEBSITE:
+http://demo2.drfuri.com/martfury/?color=black
+
+
+______________________________________________________________________________________________
+
+http://comprasaltos.com/index.php?route=product/product&product_id=379
+
+http://comprasaltos.com/index.php?route=product/category&path=89
+
+http://pasofinotv.com/
+
+http://pasofinotv.com/2020/02/robbyn-young-seduccion-4to-ano-consecutivo-conquistan-spectrum-internacional/
+
+https://www.crioonline.com/landing/?utm_source=PasoFinoTV&utm_campaign=NewLanding&utm_medium=banners
+
+https://www.ehorses.es/
+
+
+
+
